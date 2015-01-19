@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP MultiFilter
- * Description: Replaces all the image urls to the CDN Level3
+ * Description: Allows you to attach an anonymous function to multiple actions or filters (WordPress helper plugin)
  * Version: 2015.01.19
  * Author: khromov
  */
